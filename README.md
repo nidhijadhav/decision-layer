@@ -174,3 +174,5 @@ None of this changes the core architecture — signals separate from policy, pol
 ## References
 
 Sun, W. (2026). *Decision-Centric Design for LLM Systems.* IBM Research. arXiv:2604.00414v1.
+
+*Built as part of an application challenge for alfred_, an AI assistant that manages email, calendar, and scheduling on behalf of users.*
